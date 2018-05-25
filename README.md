@@ -26,9 +26,7 @@ This is a Repository of a collection of Apps that I have made while Exploring Fl
 
 1.  [Flutter Quiz App](https://github.com/im-minion/Quiz-App_Flutter)
 
-### Show some :heart: 
-
-This repository contains links of all the example apps demonstrating examples in [Flutter](https://flutter.io/) application development.
+#### If you liked this then Don't Forget to Star :)
 
 ### Created & Maintained By
 
