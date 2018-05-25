@@ -1,4 +1,4 @@
-# Flutter-Apps-by [im-minion](github.com/im-minion)
+# Flutter-Apps-by [im-minion](https://github.com/im-minion)
 
 This is a Repository of a collection of Apps that I have made while Exploring Flutter
 <img src = "https://github.com/hi-manshu/Flutter-Apps-Collection/blob/master/flutterheader.png">
