@@ -16,7 +16,7 @@ This is a Repository of a collection of Apps that I have made while Exploring Fl
 
 1.  [Flutter Blog Application](https://github.com/im-minion/Flutter-Blog-App-Firebase)
 
-1.  [Flutter Chat Application](https://github.com/im-minion/Flutter-Chat-App)
+1.  [Flutter Group Chat Application](https://github.com/im-minion/Flutter-Chat-App)
 
 1.  [Flutter Navigation Using Fluro Package](https://github.com/im-minion/Fluro-package-implementation)
 
