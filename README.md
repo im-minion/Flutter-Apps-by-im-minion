@@ -26,7 +26,7 @@ This is a Repository of a collection of Apps that I have made while Exploring Fl
 
 1.  [Flutter Quiz App](https://github.com/im-minion/Quiz-App_Flutter)
 
-#### If you liked this then Don't Forget to Star :)
+#### If you liked this then Don't Forget to Star :star: :)
 
 ### Created & Maintained By
 
